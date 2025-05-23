@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MitarbeiterVerwaltung1.props" />
+</Project>
